@@ -11,6 +11,7 @@
 		2AD02C0A29D33C3A00D516FD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD02C0929D33C3A00D516FD /* ContentView.swift */; };
 		2AD02C0C29D33C3C00D516FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2AD02C0B29D33C3C00D516FD /* Assets.xcassets */; };
 		2AD02C0F29D33C3C00D516FD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2AD02C0E29D33C3C00D516FD /* Preview Assets.xcassets */; };
+		2AD02C1629D33C6700D516FD /* movieApp.json in Resources */ = {isa = PBXBuildFile; fileRef = 2AD02C1529D33C6700D516FD /* movieApp.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2AD02C0929D33C3A00D516FD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2AD02C0B29D33C3C00D516FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2AD02C0E29D33C3C00D516FD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2AD02C1529D33C6700D516FD /* movieApp.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = movieApp.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				2AD02C0729D33C3A00D516FD /* MovieApp_Main_App.swift */,
 				2AD02C0929D33C3A00D516FD /* ContentView.swift */,
 				2AD02C0B29D33C3C00D516FD /* Assets.xcassets */,
+				2AD02C1529D33C6700D516FD /* movieApp.json */,
 				2AD02C0D29D33C3C00D516FD /* Preview Content */,
 			);
 			path = "MovieApp(Main)";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2AD02C1629D33C6700D516FD /* movieApp.json in Resources */,
 				2AD02C0F29D33C3C00D516FD /* Preview Assets.xcassets in Resources */,
 				2AD02C0C29D33C3C00D516FD /* Assets.xcassets in Resources */,
 			);
